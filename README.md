@@ -47,10 +47,6 @@ Python · pandas · numpy · matplotlib · seaborn · scikit-learn · xgboost ·
 
 ## How to Run
 You can open and run the notebook directly in **Google Colab**.  
-If you prefer running locally:  
-1. Clone this repository: git clone https://github.com/giugliarelligabriele/customer-churn-ml-vs-dl.git  
-2. (Optional) Install dependencies: pip install -r requirements.txt  
-3. Open the notebook `notebooks/customer-churn-ml-vs-dl.ipynb` and run all cells to reproduce the analysis.
 
 ---
 ## Contact
